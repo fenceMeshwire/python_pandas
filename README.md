@@ -3,7 +3,7 @@
   <li>01_pandas_series.py</li>
   <li>02_pandas_series_index.py</li>
   <li>03_pandas_series_dict.py</li>
-  <li>...</li>
+  <li>04_pandas_construct_series.py</li>
   <li>...</li>
   <li>...</li>
   <li>...</li>
