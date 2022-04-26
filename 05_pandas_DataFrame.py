@@ -15,9 +15,10 @@ area = pd.Series(area_dict)
 
 population = pd.Series(population_dict)
 
-states =pd.DataFrame({'population': population, 'area': area})
+states = pd.DataFrame({'population': population, 'area': area})
 
 population['Monaco']
 population['Macau':'Singapore']
 
 states['area']
+states # returns the DataFrame object
