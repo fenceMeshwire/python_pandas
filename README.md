@@ -5,7 +5,7 @@
   <li>03_pandas_series_dict.py</li>
   <li>04_pandas_construct_series.py</li>
   <li>05_pandas_DataFrame.py</li>
-  <li>...</li>
+  <li>06_pandas_constructing_df_objects.py</li>
   <li>...</li>
   <li>...</li>
   <li>...</li>
