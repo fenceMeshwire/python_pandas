@@ -6,7 +6,7 @@
   <li>04_pandas_construct_series.py</li>
   <li>05_pandas_DataFrame.py</li>
   <li>06_pandas_constructing_df_objects.py</li>
-  <li>...</li>
+  <li>07_pandas_index_object.py</li>
   <li>...</li>
   <li>...</li>
   <li>...</li>
