@@ -8,7 +8,7 @@
   <li>06_pandas_constructing_df_objects.py</li>
   <li>07_pandas_index_object.py</li>
   <li>08_pandas_df_data_selection.py</li>
-  <li>...</li>
+  <li>09_pandas_index_preservation.py</li>
   <li>...</li>
   <li>...</li>
   <li>...</li>
