@@ -15,4 +15,4 @@ res_data = pd.DataFrame({'density':density, 'abundance':earth_abundance})
 res_data['density']   # Shows column density
 res_data['abundance'] # Shows column abundance (abundance in earth's crust)
 
-res_data.loc[res_data.density > 19, ['density']] # Shows specific values and
+res_data.loc[res_data.density > 19, ['density']] # Shows specific values and the specific column
