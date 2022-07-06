@@ -25,5 +25,5 @@ print(matrix_D)
 
 print(matrix_C == matrix_D) # Returns True
 
-# Other operations are possible:
+# Instead of "add" other operations are also possible:
 # sub, mul, div, mod, floordiv, pow
