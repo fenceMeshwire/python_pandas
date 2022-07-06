@@ -17,13 +17,13 @@ print(matrix_B)
 
 mean_value = matrix_A.stack().mean()
 
-Matrix_C = matrix_A.add(matrix_B, fill_value=mean_value)
-print(Matrix_C)
+matrix_C = matrix_A.add(matrix_B, fill_value=mean_value)
+print(matrix_C)
 
-Matrix_D = matrix_B.add(matrix_A, fill_value=mean_value)
-print(Matrix_D)
+matrix_D = matrix_B.add(matrix_A, fill_value=mean_value)
+print(matrix_D)
 
-print(Matrix_C == Matrix_D) # Returns True
+print(matrix_C == matrix_D) # Returns True
 
 # Other operations are possible:
 # sub, mul, div, mod, floordiv, pow
