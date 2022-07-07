@@ -4,6 +4,17 @@
 
 # 11_pandas_index_creation.py
 
+# Result: DataFrame with index name and column named 'values' 
+# 
+#          values
+# symbols
+# (            40
+# <            60
+# R            82
+# ¦           166
+# ¥           165
+# ¤           164
+
 # Dependency
 import pandas as pd
 
@@ -20,14 +31,3 @@ numbers = tuple(ord(symbol) for symbol in symbols)
 data = pd.DataFrame(numbers, index=symbols_list, columns=['values'])
 data.index.names = ['symbols']
 print(data)
-
-# Result: DataFrame with index name and column named 'values' 
-# 
-#          values
-# symbols
-# (            40
-# <            60
-# R            82
-# ¦           166
-# ¥           165
-# ¤           164
