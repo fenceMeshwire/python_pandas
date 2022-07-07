@@ -24,9 +24,6 @@ numbers = [40, 60, 82, 166, 165, 164]
 symbols_list = [chr(number) for number in numbers]
 symbols = ''.join(symbols_list)
 
-# Get unicode number for each symbol:
-numbers = tuple(ord(symbol) for symbol in symbols)
-
 # Arrange the symbols as index and numbers as values in a DataFrame:
 data = pd.DataFrame(numbers, index=symbols_list, columns=['values'])
 data.index.names = ['symbols']
