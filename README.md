@@ -10,7 +10,7 @@
   <li>08_pandas_df_data_selection.py</li>
   <li>09_pandas_index_preservation.py</li>
   <li>10_pandas_df_align_index.p</li>
-  <li>...</li>
+  <li>11_pandas_index_creation.py</li>
   <li>...</li>
   <li>...</li>
   <li>...</li>
