@@ -11,7 +11,7 @@
   <li>09_pandas_index_preservation.py</li>
   <li>10_pandas_df_align_index.p</li>
   <li>11_pandas_index_creation.py</li>
-  <li>...</li>
+  <li>12_DataFrame_Scratch_Built.py</li>
   <li>...</li>
   <li>...</li>
   <li>...</li>
