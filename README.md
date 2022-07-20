@@ -1,6 +1,6 @@
 <h4>Basic concepts of python3 module pandas.</h4>
 <ol>
-  <li>01_pandas_series.py</li>
+  <li>Create a Pandas Series: 01_pandas_series.py</li>
   <li>02_pandas_series_index.py</li>
   <li>03_pandas_series_dict.py</li>
   <li>04_pandas_construct_series.py</li>
