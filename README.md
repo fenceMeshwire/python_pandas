@@ -13,7 +13,7 @@
   <li>11_pandas_index_creation.py</li>
   <li>Build a Pandas DataFrame object from scratch: 12_DataFrame_Scratch_Built.py</li>
   <li>Modify column names in a Pandas Dataframe: 13_pandas_modify_column_names.py</li>
-  <li>...</li>
+  <li>Sort a Pandas Dataframe by value of the column. 14_pandas_sort_df_by_column.py</li>
   <li>...</li>
   <li>...</li>
 </ol>
