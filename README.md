@@ -12,7 +12,7 @@
   <li>10_pandas_df_align_index.p</li>
   <li>11_pandas_index_creation.py</li>
   <li>Build a Pandas DataFrame object from scratch: 12_DataFrame_Scratch_Built.py</li>
-  <li>...</li>
+  <li>Modify column names in a Pandas Dataframe: 13_pandas_modify_column_names.py</li>
   <li>...</li>
   <li>...</li>
   <li>...</li>
