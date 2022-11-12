@@ -2,7 +2,7 @@
 
 # Python 3.9.5
 
-# 57_pandas_mod_column_labels.py
+# 13_pandas_modify_column_names.py
 
 # Dependencies
 import pandas as pd
