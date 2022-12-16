@@ -22,8 +22,8 @@ df = pd.read_csv('file.csv')
 df.head() # Check the first five rows
 df.info() # Check the DataFrame information
 
-# Check for missing data:
-df.isnull().values.any()
+# Check for missing data.
+df.isnull().values.any() # Returns True if data is missing, or NaN.
 
 # Identify the number of missing data elements:
 for col_name in df.columns.values:
