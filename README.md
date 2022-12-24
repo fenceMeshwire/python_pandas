@@ -15,5 +15,5 @@
   <li>Modify column names in a Pandas Dataframe -> 13_pandas_modify_column_names.py</li>
   <li>Sort a Pandas Dataframe by value of the column -> 14_pandas_sort_df_by_column.py</li>
   <li>Check the DataFrame for missing values (NaN) -> 15_pandas_check_for_NaN.py</li>
-  <li>...</li>
+  <li>Practical example: Visualize some dividend payments in one year -> 16_pandas_dividend_map.py</li>
 </ol>
