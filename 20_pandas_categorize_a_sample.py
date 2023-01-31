@@ -2,7 +2,7 @@
 
 # Python 3.9.5
 
-# 20_pandas_categorize_data.py
+# 20_pandas_categorize_a_sample.py
 
 # Dependencies
 import pandas as pd
