@@ -21,8 +21,10 @@ date = ""      # Create an empty date variable (type string)
 for index in df.index:
     date = index
     date = str(date)
-    date = date[0:10]
+    date = date[0:10] + " 00:00"
+    date = datetime.strptime(date, '%Y-%m-%d %H:%M')
     new_index.append(date)  # Add value to the new index
     
 df.index = new_index        # Exchange old index for new index
 df.index                    # Show the new index
+df.head()                   # Visualize data: Check the new index.
