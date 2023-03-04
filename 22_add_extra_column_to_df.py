@@ -25,5 +25,5 @@ orders = [
 orders = pd.DataFrame(orders, columns=columns)
 
 # Add extra column for the calculated values
-orders['tip_pct'] = orders['tip'] / orders['total']
+orders['tip_percent'] = orders['tip'] / orders['total']
 print(orders)
