@@ -17,4 +17,9 @@
   <li>Check the DataFrame for missing values (NaN) -> 15_pandas_check_for_NaN.py</li>
   <li>Practical example: Visualize some dividend payments in one year -> 16_pandas_dividend_map.py</li>
   <li>Create a Pandas Series from scratch and visualize the output -> 17_pandas_create_series_from_scratch.py</li>
+  <li>...</li>
+  <li>...</li>
+  <li>...</li>
+  <li>...</li>
+  <li>Add an extra column to an existing DataFrame -> 22_add_extra_column_to_df.py</li>
 </ol>
