@@ -1,4 +1,6 @@
-#!/usr/bin/env python 3.11
+#!/usr/bin/env python3
+
+# Python 3.11
 
 # 26_pandas_read_csv_string_only.py
 
